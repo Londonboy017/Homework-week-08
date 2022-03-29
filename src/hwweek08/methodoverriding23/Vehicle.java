@@ -1,4 +1,4 @@
-package hwweek08.multilevelinheritance23;
+package hwweek08.methodoverriding23;
 
 public class Vehicle {
 

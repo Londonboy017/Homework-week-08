@@ -1,4 +1,4 @@
-package hwweek08.multilevelinheritance23;
+package hwweek08.methodoverriding23;
 
 public class Bike2 extends  Vehicle{
     public void run(){System.out.println("Bike is running safely");}
